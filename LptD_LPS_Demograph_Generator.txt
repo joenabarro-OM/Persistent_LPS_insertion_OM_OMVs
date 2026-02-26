@@ -1,0 +1,4 @@
+ALIAS FILE (non-runnable)
+This .txt exists to provide a stable, citation-friendly filename for 'LptD_LPS_Demograph_Generator' in the Methods/Supplementary Software.
+Use the runnable MATLAB source: LptD_LPS_Demograph_Generator.m
+See instructions: README_LptD_LPS_Demograph_Generator.txt

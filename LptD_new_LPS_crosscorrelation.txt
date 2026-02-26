@@ -1,0 +1,4 @@
+ALIAS FILE (non-runnable)
+This .txt exists to provide a stable, citation-friendly filename for 'LptD_new_LPS_crosscorrelation' in the Methods/Supplementary Software.
+Use the runnable MATLAB source: LptD_new_LPS_crosscorrelation.m
+See instructions: README_LptD_new_LPS_crosscorrelation.txt

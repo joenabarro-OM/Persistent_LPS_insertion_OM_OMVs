@@ -1,0 +1,4 @@
+ALIAS FILE (non-runnable)
+This .txt exists to provide a stable, citation-friendly filename for 'calculate_photon_weighted_PCCs' in the Methods/Supplementary Software.
+Use the runnable MATLAB source: calculate_photon_weighted_PCCs.m
+See instructions: README_calculate_photon_weighted_PCCs.txt

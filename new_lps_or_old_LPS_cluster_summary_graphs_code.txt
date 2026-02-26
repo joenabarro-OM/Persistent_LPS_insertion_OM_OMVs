@@ -1,0 +1,4 @@
+ALIAS FILE (non-runnable)
+This .txt exists to provide a stable, citation-friendly filename for 'new_lps_or_old_LPS_cluster_summary_graphs_code' in the Methods/Supplementary Software.
+Use the runnable MATLAB source: new_lps_or_old_LPS_cluster_summary_graphs_code.m
+See instructions: README_new_lps_or_old_LPS_cluster_summary_graphs_code.txt

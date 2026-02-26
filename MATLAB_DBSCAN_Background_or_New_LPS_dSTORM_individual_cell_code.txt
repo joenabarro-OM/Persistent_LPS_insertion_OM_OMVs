@@ -1,0 +1,4 @@
+ALIAS FILE (non-runnable)
+This .txt exists to provide a stable, citation-friendly filename for 'MATLAB_DBSCAN_Background_or_New_LPS_dSTORM_individual_cell_code' in the Methods/Supplementary Software.
+Use the runnable MATLAB source: MATLAB_DBSCAN_Background_or_New_LPS_dSTORM_individual_cell_code.m
+See instructions: README_MATLAB_DBSCAN_Background_or_New_LPS_dSTORM_individual_cell_code.txt
