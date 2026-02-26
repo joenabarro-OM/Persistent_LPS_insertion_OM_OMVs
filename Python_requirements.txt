@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+shapely
+scipy
+scikit-learn
+tqdm
